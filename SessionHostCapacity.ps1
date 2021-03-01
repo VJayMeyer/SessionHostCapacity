@@ -36,11 +36,11 @@ $EndTime = "05:00:00"
 
 # Azure application / service principle name
 # The Azure AD Application Id
-$AppId = "f69df505-8d0a-4d28-b2c8-9d76253d9f8e"
+$AppId = "f69df505-8d3a-4d28-b2c8-9d76253d9f8e"
 # The Azure AD Tenant Id
-$TenantId = "f798b6f5-00d8-4480-822a-4c8e5cd7d890"
+$TenantId = "f798b6f5-00d8-448c-822a-4c8e5cd7d890"
 # The Azure AD Application Certificate Thumbprint
-$Thumbprint = "e3b5953fb64f3815fecaa5a502495c7986f3f990"
+$Thumbprint = "e3b5953fb64f3c15fecaa5a502495c7986f3f990"
 # Logging and tracking
 # Script Log File Path
 $LogFile = "C:\Maintenance\capacity.log"
@@ -53,7 +53,7 @@ $ManagementEndpoint = "https://management.local.azurestack.external"
 # Virtual machine resource group
 $VMResourceGroup = "lab-vdi"
 # Subscription Id
-$SubscriptionId = "a5bed567-3f86-4a59-ad80-d13963bb79d1"
+$SubscriptionId = "a5bfd567-3f86-4a59-ad80-d13963bb79d1"
 
 ## Functions
 
